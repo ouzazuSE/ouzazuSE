@@ -3,7 +3,7 @@
 #### ผลงานอาจมีไม่เยอะ ไม่โดดเด่น เเต่จะพยายามอยากเต็มที่ ที่จะเรียนรู้เเละสร้างสรรค์ผลงานออกมาครับ :v:
 
 🌱 I’m currently learning Front-End,Back-End,GameDev & more
-# How to reach me 
+# :heartbeat:How to reach me 
 * :speech_balloon: [Facebook:Ouzazu](https://www.facebook.com/au.ou.31/)
 * :e-mail: ouzazu001@gmail.com
 * :iphone: 061-268-9613
