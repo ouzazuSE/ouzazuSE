@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Front-End,Back-End,GameDev & more
 # :heartbeat:How to reach me 
-* :speech_balloon: [Facebook:Ouzazu](https://www.facebook.com/au.ou.31/)
+* :speech_balloon: Facebook:[Ouzazu](https://www.facebook.com/au.ou.31/)
 * :e-mail: ouzazu001@gmail.com
 * :iphone: 061-268-9613
 * :black_joker: Discord:Clown#7902
