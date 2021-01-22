@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hi I'm Woratan, Welcome to my Github profile 👋
+### :pray:สวัสดีครับ ผม วรธัน วงค์สถาน หรือ อู๋(ou) เป็นคนที่สนใจในการเขียนโปรเเกรม เว็บไซด์ เเละการทำเกม 
+### ผลงานอาจมีไม่เยอะ ไม่โดดเด่น เเต่จะพยายามอยากเต็มที่ที่จะเรียนรู้เเะสร้างสรรค์ผลงานออกมาครับ :v:
 
+- 🌱 I’m currently learning Front-End,Back-End,GameDev & more
+# How to reach me 
+*:speech_balloon:[Facebook:Ouzazu](https://www.facebook.com/au.ou.31/)
+*:e-mail:ouzazu001@gmail.com
+*:iphone:061-268-9613
+*:black_joker:Discord:Clown#7902
 <!--
 **ouzazuSE/ouzazuSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
